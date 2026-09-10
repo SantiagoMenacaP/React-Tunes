@@ -148,4 +148,18 @@ Proyecto privado. Uso personal.
 
 ---
 
+## ⚠️ Descargo de responsabilidad
+
+React Tunes es una aplicación de reproducción local que **no incluye** ni aloja contenido de audio. La descarga o adquisición de archivos MP3 es responsabilidad exclusiva del usuario, y se espera que siempre utilices contenido **con licencia legal** (música de tu propiedad, libre de derechos o autorizada por el titular de los derechos).
+
+**No nos hacemos responsables** por:
+
+- El uso indebido de la aplicación o de las funciones de descarga/búsqueda.
+- La descarga, distribución o reproducción de archivos MP3 con derechos de autor sin el permiso correspondiente.
+- Cualquier infracción de derechos de autor o uso ilegal del contenido.
+
+Este proyecto **no fomenta ni apoya la piratería**. Úsalo únicamente con música para la que tengas los derechos o permisos necesarios. Si crees que la app infringe algún derecho, contacta al responsable del repositorio para tomar las medidas correspondientes.
+
+---
+
 *Hecho con React, Vite y Tailwind CSS.*
